@@ -177,13 +177,6 @@ Geral:
 Clientes:
 ![8](https://user-images.githubusercontent.com/120461225/229382010-b9e9bcb9-6f79-4e3e-a298-46c981daec27.jpg)
 
-
-## Resultado Final
-Com as tabelas dinâmicas criadas, agora é só utilizar essas para criar os gráficos para o dashboard e definir a aparência do dashboard.
-Assim ficou o resultado final:
-
-![23](https://user-images.githubusercontent.com/120461225/229364924-ea8bbb07-4429-4e6d-bb70-756421a7b068.jpg)
-
 ## Conclusão
 Com essa integração, os dados podem ser atualizados a qualquer momento no Power BI, mantendo a visualização do Dashboard para exibição futura.
 </body>
